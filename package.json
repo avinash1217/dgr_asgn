@@ -6,7 +6,7 @@
     "asyncawait": "^3.0.0",
     "axios": "^0.19.2",
     "csvtojson": "^2.0.10",
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "fs": "^0.0.1-security",
     "moment-timezone": "^0.5.27",
     "ramda": "^0.27.0",
